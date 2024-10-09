@@ -46,5 +46,5 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![Screenshots](./pacman/screenshots/screen1)
+![Screenshots](./pacman/screenshots/screen1.png)
 
